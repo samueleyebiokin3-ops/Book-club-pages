@@ -1,0 +1,827 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+img {
+  max-width: 100%;
+  height: auto;
+}
+body {
+    font-family: poppins, sans-serif;
+    background-color: #FAF9F6;
+}
+p{
+    color:#415860;
+}
+.start1{
+      color:#415860;
+}
+.hero1A h1{
+      color:#415860;
+}
+.hero1B p{
+      color:#415860;
+    
+}
+.section2 h2{
+      color:#415860;
+
+}
+.section2 p{
+      color:#415860;
+}
+#chk{
+      color:#415860;
+}
+.S-hero h3{
+      color:#415860;
+
+}
+.S-hero p{
+      color:#415860;
+}
+.journey h3{
+      color:#415860;
+}
+.tech1 h3{
+      color:#415860;
+
+}
+.tech2 h3{
+      color:#415860;
+} 
+.tech3{
+    color:#415860;
+}
+.tech4{
+      color:#303f44;
+
+}
+.mem h4{
+      color:#415860;
+}
+.dev {
+    color: white;
+}
+.navba{
+    text-align: center;
+    width: 28%;
+     color:#172b31;
+}
+.fa-star{
+    margin-top: 1rem;
+    color: gold;
+    margin-bottom: 0.5rem;
+}
+.agent1{
+    width: 40px;
+    height: 40px;
+    border-radius: 50%;
+    object-fit: cover;
+}
+
+
+
+.heroplot{
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    width: 94%;
+    height: 80vh;
+    padding: 1rem;
+    margin: auto;
+    background: linear-gradient(to right, #ebd1a4 0%,#98c8f1 100%);  
+}
+
+
+.hero1{
+    width: 60%;
+}
+.hero1A{
+    
+    height: auto;
+    width: 50%;
+    margin-top: 2rem;
+
+}
+.hero1A h1{
+    font-size: 3.5rem;
+    width: 50%;
+    height: auto;
+}
+.turn{
+    width: 85%;
+    line-height: 1.5rem;
+}
+.herolanc{
+    border: 2px solid #2E4042 ;
+    border-radius: 5px;
+    color: #2E4042 ;
+    background-color:  #f3ddc1;;
+    width: 60%;
+    height: 7vh;
+    padding: 0.6rem;
+    margin-top: 2rem; 
+
+} 
+ .herolanc a{
+    color: #2E4042;
+    font-size: 1rem;
+    font-weight: 900;
+    text-decoration: none;
+
+} 
+
+
+
+ .hero1B{
+    display: flex;
+    gap: 0.5;
+     align-items: center;
+    height: auto;
+    width: 60%;
+    margin-top: 0.5rem;
+    
+}  
+.agent{
+    width: 30px;
+    height: 30px;
+    border-radius: 50%;
+    object-fit: cover;
+}
+
+ .hero2{
+
+    height: auto;
+    
+} 
+.hero-section{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    width: 94%;
+    height: 65vh;
+    margin: auto;
+    margin-top: 1rem;
+    padding:1rem;
+    background: linear-gradient(to right, #ebd1a4 0%,#98c8f1 100%);  
+    
+
+}
+
+.section2 p{
+    line-height:1.5;
+}
+.section2 h2{
+    font-size: 40px;
+    font-weight: 900;
+    width: 80%;
+}
+.check{
+    display: flex;
+    align-items: center;
+    gap: 1rem;
+    margin-bottom: 1rem;
+}
+#chk{
+    font-size: 25px ;
+}
+.hero-section3{
+    display: flex;
+    justify-items: center;
+    justify-content: space-around;
+    align-items: center;
+    width: 94%;
+    height: 60vh;
+    margin: auto;
+    margin-top: 1rem;
+    background: linear-gradient(to right, #ebd1a4 0%,#98c8f1 100%);  
+}
+.S-hero{
+    width: 40%;
+
+}
+.S-hero h3{
+    font-size: 30px;
+    font-weight: 900;
+}
+.S-hero p{
+    line-height:1.5;
+}
+
+
+.allover{
+    width: 94%;
+    margin:  auto;
+    margin-top: 1rem;
+    padding:1rem;
+    height: 60vh;
+    background: linear-gradient(to right, #ebd1a4 0%,#98c8f1 100%);  
+   
+}
+.journey{
+    width: 100%;
+    text-align: center;
+    word-spacing: 20px;
+}
+.journey .block{
+    margin-top: 4rem;
+    font-size: 35px;
+    width: 100%;
+
+}
+.your-tech{
+    display: flex;
+    justify-content: center;
+    gap: 1rem;
+    width: 100%;
+    margin-top: 3rem;
+}
+.your-tech h3{
+    border: 2px solid#415860;
+    border-radius: 3px;
+    width: 15%;
+    height: 5vh;
+    padding-top:0.2rem ;
+    padding-left: 0.5rem;
+
+}
+.your-tech p{
+    font-weight: 900; 
+    width: 70%;
+    margin-top: 1.5rem;
+}
+
+.mem{
+    text-align: center;
+    margin-top: 5rem;
+    font-size: 40px;
+    
+}
+  .members{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 1rem;
+    width: 94%;
+    height: 80vh;
+    margin: auto;
+    padding: 1rem;
+    background: linear-gradient(to right, #ebd1a4 0%,#98c8f1 100%);  
+  
+    
+   }
+   .members p{
+    font-size: 25px;
+
+   }
+   .member{
+    margin-top: 5rem;
+    padding: 20px;
+    border: 2px solid rgb(226, 223, 223);
+    border-radius: 10px;
+    width: 25%;
+    display: flex;
+    flex-direction: column;
+    height: 50vh;
+    line-height: 2.5;
+   
+}
+.member2{
+    margin-top: 5rem;
+    padding: 20px;
+    border: 2px solid rgb(226, 223, 223);
+    border-radius: 10px;
+    width: 25%;
+    display: flex;
+    flex-direction: column;
+    height: 60vh;
+    line-height: 2.5;
+    background: linear-gradient(135deg, #e8dfd3, #cfddea); 
+}
+
+ .member a{
+    text-decoration: none;
+    text-align: center;
+    border: 2px solid  ;
+    border-radius: 5px;
+    display: block;
+    font-size: 14px;
+    font-weight: bold;
+    background-color:  #f3ddc1;
+    color: rgb(19, 31, 19);
+}    
+ .member2 a{
+    text-decoration: none;
+    text-align: center;
+    border: 2px solid  ;
+    border-radius: 5px;
+    display: block;
+    /* height: 8vh; */
+    padding-left: 2.4rem;
+    /* padding-top: 0.5rem; */
+    font-size: 14px;
+    font-weight: bold;
+    /* width: 90%; */
+    padding-right: 2.5rem;
+     background-color:  #f3ddc1;
+     color: rgb(19, 31, 19);
+}   
+
+
+.stars{
+    
+        width: 94%;
+        height: 40vh;
+        margin: auto;
+        margin-top: 1rem;
+        background: linear-gradient(135deg, #e3c8a4, #51677b);  
+    }
+    .starex{
+        text-align: center;
+    }
+.star1{
+        font-size: 20px;
+        height:5vh;
+        width: 40%;
+        margin: auto;
+        text-align: center;
+
+
+    }
+.sara{
+
+    width: 100%;
+    text-align: center;
+    margin-top: 5rem;
+    
+}
+
+
+
+
+
+
+.debug{
+    text-align: center;
+    background-color: rgb(4, 56, 56);
+    height: 80vh;
+    width: 100%;
+    height:40vh;
+    margin-top: 2rem;
+    background: linear-gradient(135deg, #e3c8a4, #51677b);  
+}
+.debugh4 h4{
+    color: white;
+    padding-top: 2rem;
+    font-size: 35px;
+    margin: auto;
+    width:60%;
+    font-size: 25px;
+}
+
+
+
+.rev a{
+    font-size: 15px;
+    font-weight: 700;
+    height: 10vh;
+    width: 100%;   
+    border: 2px solid #ebeff0 ;
+    border-radius: 5px;
+    color: #f9fbfc ;
+    width: 100%;
+    height: 10vh;
+    margin-top: 1rem; 
+    padding-top:0.5rem ;
+    padding-bottom: 0.5rem;
+    padding-left: 0.5rem ;
+     text-decoration: none; 
+
+} 
+
+.rev{
+    margin-top: 2rem;
+}
+
+
+.lex{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 10vh;
+}
+.lex1{
+    padding-bottom: 0.8rem;
+}
+.ready3{
+    margin-top: 2rem;
+    margin-right: 0.5rem;
+}
+.close{
+    margin-right: 7rem;
+}
+
+
+hr{
+    border: 1px solid;
+    height: 1px;
+    width: 90%;
+    margin: auto;
+    background:linear-gradient(to right transparent,
+    rgba(255,255,255, 0.3),
+    transparent) ;
+}
+#facebook{
+    color: #3b5998;
+}
+#instagram{
+    color: #e1306c;
+}
+#whatsapp-icon{
+    color: #2aa43a;
+}
+
+
+
+@media (max-width:1200px) {
+.heroplot{
+        height: auto;
+}
+
+.hero1A {
+    height: auto;
+}
+.hero1A h1{
+    font-size: 2rem;
+}
+.herolanc{
+    width: 80%;
+    height: auto;
+    
+}
+.herolanc a{
+    font-size: 1rem;
+}
+.hero1B{
+    width: 80%;
+}
+.hero-section{
+    height: auto;
+}
+.hero-section3{
+    height: auto;
+}
+.S-hero{
+    width: 50%;
+}
+.allover{
+    height: auto;
+}
+.your-tech{
+    height: auto;
+}
+.your-tech h3{
+   display:none
+}
+.members{
+    height: auto;
+    width: auto;
+}
+.member{
+    height: auto;
+    width: auto;
+}
+.member2{
+    height: auto;
+    width: auto;
+}
+.star1{
+    width: 80%;
+}
+.debug{
+    height: auto ;
+}
+.lex{
+    height: auto;
+}
+
+
+}
+@media (max-width:900px) {
+.heroplot{
+    flex-direction: column;
+}
+.hero1A{
+    width: 50%;
+}
+.hero1A h1{
+    width: 30%;
+    font-size: 1rem;
+}
+.hero1B{
+    width: 90%;
+}
+.hero1B p{
+    font-size: 0.7rem;
+}
+.agent{
+    width: 20px;
+    height: 20px;
+
+}
+.herolanc{
+    width: 80%;
+}
+.herolanc a{
+    font-size: 0.75rem;
+
+}
+.hero2{
+    width: 50%;
+}
+.hero-section{
+    flex-direction: column;
+}
+.section1{
+    width: 50%;
+}
+.section2{
+    width: 50%;
+}
+.section2 h2{
+    font-size: 1.5rem;
+}
+.hero-section3{
+    flex-direction: column;
+    gap: 1rem;
+}
+.S-hero{
+    width: 50%;
+    margin: auto;
+
+}
+.S-hero h3{
+    font-size: 1.5rem;
+}
+.imaga{
+    width: 50%;
+    margin: auto;
+}
+
+.journey{
+    width: 90%;
+    margin: auto;
+    text-align: center;
+
+}
+ .your-tech{
+    flex-direction: column;
+    gap: 1rem;
+    width: 90%;
+    margin: auto;
+    text-align: center;
+} 
+
+.your-tech p{
+    margin: auto;
+}
+.member p{
+    font-size: 0.8rem;
+}
+.member2 p{
+    font-size: 0.8rem;
+}
+.member a{
+    font-size: 0.65rem;
+}
+.member2 a{
+    font-size: 0.55rem;
+    width: 100%;
+}
+
+}
+
+@media (max-width:700px) {
+
+.herolanc{
+    width: 90%;
+}
+.herolanc a{
+    font-size: 0.65rem;
+
+}
+
+
+
+}
+
+
+
+@media (max-width:600px){
+    .hero1A{
+        width: 80%;
+    }
+.hero1A h1{
+    width: 60%;
+    font-size: 1.8rem;
+}
+.herolanc {
+    width: 80%;
+    height: auto;
+}
+.herolanc a{
+    font-size: 0.75rem;
+    
+}
+.turn{
+    font-size: 0.8rem;
+    
+}
+.hero2{
+    width: 75%;
+
+}
+.section1{
+    width: 80%;
+}
+.section2 {
+    width: 70%;
+}
+.section2 h2{
+    font-size: 1.2rem;
+}
+.check{
+    font-size: 0.8rem;
+
+}
+.S-hero h3{
+    font-size:1.3rem;
+}
+.S-hero p{
+    font-size:0.8rem;
+}
+.imaga{
+    width: 80%;
+}
+.journey .block{
+    font-size: 1rem;
+
+}
+.your-tech h3{
+    font-size: 1rem;
+}
+.your-tech p{
+    font-size: 0.75rem;
+}
+.members{
+    flex-direction: column;
+    gap: 1rem;
+}
+.member{
+    width: 80%;
+}
+.member p{
+    font-size: 1rem;
+}
+.member2 p{
+    font-size: 1rem;
+}
+.member2{
+    width: 80%;
+}
+.starex{
+    font-size: 0.7rem;
+}
+.star1{
+    font-size: 0.9rem;
+    color:#51677b;
+}
+
+.debugh4 h4{
+    font-size: 0.8rem
+}
+.rev a {
+    font-size: 0.6rem;
+}
+.agent1{
+    width: 20px;
+    height: 20px;
+
+}
+.close {
+    font-size: 0.6rem;
+}
+.open{
+    font-size: 0.8rem;
+}
+
+
+}
+@media (max-width:450px){
+
+.hero1A{
+    width: 90%;
+    
+}
+.hero1A h1{
+    font-size: 1.2rem;
+}
+.herolanc {
+    width: 80%;
+    height: auto;
+}
+.herolanc a{
+    font-size: 0.7rem;
+    
+}
+.section2 h2{
+    font-size: 0.9rem;
+}
+.S-hero h3{
+    width: 90%;
+    font-size: 0.9rem;
+}
+.your-tech h3{
+    font-size: 0.8rem;
+}
+.your-tech p{
+    font-size: 0.7rem;
+}
+.mem h4{
+    font-size: 1rem;
+}
+.starex{
+    font-size: 0.5rem;
+}
+.star1{
+    font-size: 0.9rem;
+    color:#51677b;
+}
+.close{
+    font-size: 0.4rem;
+}
+
+}
+
+@media (max-width:388px){
+
+.herolanc {
+    width: 100%;
+    height: auto;
+}
+.herolanc a{
+    font-size: 0.7rem;
+    
+}
+
+}
+
+
+
+
+@media (max-width:320px){
+    .hero1A{
+        width: 100%;
+    }
+.section2 {
+    width: 100%;
+}
+.S-hero{
+    width: 80%;
+}
+.S-hero h3{
+    width: 80%;
+    font-size: 0.9rem;
+}
+.herolanc{
+    display: none;
+}
+.herolanc a{
+    display: none;
+}
+.hero1B{
+    display: none;
+}
+.ptag{
+    display: none;
+}
+.ready3{
+    display: none;
+}
+hr{
+    margin-top: 1rem;
+}
+.lex1{
+    margin-top: 1rem;
+}
+
+
+
+
+
+
+
+
+}
